@@ -6,5 +6,6 @@ public abstract class  DemoAbstraction {
 	public void m11()
 	{
 	    System.out.println("Hi");
+	    System.out.println("done");
 	}
 }
